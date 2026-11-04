@@ -1,0 +1,8 @@
+SENDWAY — Logística de Carpintería de Aluminio
+===============================================
+OPCIÓN 1 — Sin servidor: abrir carpinteria-logistica-36.html directamente
+OPCIÓN 2 — Con servidor local:
+  1. Tener Node.js instalado (nodejs.org)
+  2. Doble clic en INICIAR-SENDWAY.vbs (sin ventana negra)
+  3. Se abre http://localhost:3000
+  4. En red: http://IP-DE-ESTA-PC:3000
